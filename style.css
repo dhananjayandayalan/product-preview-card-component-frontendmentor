@@ -58,7 +58,7 @@ img {
 }
 
 .perfume-name {
-  color: hsl(0, 0, 100%);
+  color: hsl(0, 0%, 0%);
   line-height: 1;
   padding-top: 1.2rem;
   padding-bottom: 1.8rem;
